@@ -5,7 +5,7 @@ email: SmTaUcM@Yahoo.co.uk
 description: Stuart Macintosh's personal blog and portfolio website | Software Developer at Royal Air Force from United Kingdom.
 baseurl: /
 url: http://SmTaUcM.github.io
-twitter: @MacintoshStuart
+twitter: MacintoshStuart
 github:  SmTaUcM
 linkedin: stuart-m-86689268
 facebook: SmTaUcM
@@ -21,10 +21,10 @@ highlighter: rouge
 markdown: kramdown
 permalink: /:title.html
 theme: minima
-#plugins:
-#  - jekyll-sitemap
-#  - jemoji
-#  - jekyll-feed
+plugins:
+  - jekyll-sitemap
+  - jemoji
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
